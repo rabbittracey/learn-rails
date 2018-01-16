@@ -18,6 +18,8 @@ gem 'google_drive'
 gem 'high_voltage'
 gem 'simple_form'
 gem 'zurb-foundation'
+gem 'rb-readline', '~> 0.5.5'
+gem 'memcache-client'
 group :development do
  gem 'better_errors' 
  gem 'quiet_assets' 
